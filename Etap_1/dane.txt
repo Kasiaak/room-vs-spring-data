@@ -1,0 +1,26 @@
+Zespół:
+Dawiec Katarzyna zuzanna.dawiec@gmail.com 1ID21A
+
+Temat projektu: 
+Porównanie biblioteki Room oraz frameworka Spring Data
+
+Spis technologii:
+Windows, Java, Room, Spring Data
+
+Harmonogram:
+Etap 2 - Stworzenie projektów badawczych
+Etap 3 - Stworzenie tabel za pomocą frameworka Spring Data
+Etap 4 - Stworzenie tabel za pomocą biblioteki Room + zebranie różnic
+Etap 5 - Określenie relacji między tabelami za pośrednictwem frameworka Spring Data
+Etap 6 - Stworzenie relacji między tabelami poprzez bibliotekę Room + zebranie różnic
+Etap 7 - Wypełnienie tabel danymi i wykonanie operacji na nich + zebranie różnic
+Etap 8 - Analiza zebranych wyników i sporządzenie sprawozdania
+
+Podział prac w zespole:
+-
+
+Temat projektu z przedmiotu "Programowanie systemów rozproszonych":
+Łamacz haseł
+
+Temat pracy inżynierskiej:
+Projekt i implementacja aplikacji wspomagającej organizację turniejów bilardowych
