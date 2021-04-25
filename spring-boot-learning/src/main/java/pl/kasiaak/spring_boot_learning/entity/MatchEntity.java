@@ -2,10 +2,8 @@ package pl.kasiaak.spring_boot_learning.entity;
 
 import lombok.Data;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
+import javax.persistence.*;
+import java.util.List;
 
 @Data
 @Entity
@@ -19,5 +17,8 @@ public class MatchEntity {
 
     private Integer playerOnePoints;
     private Integer playerTwoPoints;
+
+    @ManyToMany(mappedBy = "matchParticipation")
+    List<Player> playersAssignedToMatch;
 
 }
