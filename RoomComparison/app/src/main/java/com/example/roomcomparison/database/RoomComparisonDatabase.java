@@ -9,9 +9,9 @@ import androidx.room.RoomDatabase;
 import androidx.sqlite.db.SupportSQLiteDatabase;
 
 import com.example.roomcomparison.dao.MatchDao;
-import com.example.roomcomparison.entity.MatchEntity;
-import com.example.roomcomparison.entity.Player;
-import com.example.roomcomparison.entity.Tournament;
+import com.example.roomcomparison.entity.match.MatchEntity;
+import com.example.roomcomparison.entity.player.Player;
+import com.example.roomcomparison.entity.tournament.Tournament;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

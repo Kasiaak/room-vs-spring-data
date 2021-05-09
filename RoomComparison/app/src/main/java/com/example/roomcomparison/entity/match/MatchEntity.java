@@ -1,4 +1,4 @@
-package com.example.roomcomparison.entity;
+package com.example.roomcomparison.entity.match;
 
 import androidx.annotation.NonNull;
 import androidx.room.ColumnInfo;
