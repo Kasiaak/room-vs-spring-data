@@ -23,4 +23,10 @@ public class MatchEntity {
     @ColumnInfo(name = "player_two_points")
     public int player2Points;
 
+    @ColumnInfo(name = "tournamentUUIDFK")
+    public String tournamentUUIDFK;
+
+    @ColumnInfo(name = "match_ended")
+    public boolean matchEnded;
+
 }
